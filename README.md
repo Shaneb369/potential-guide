@@ -1,2 +1,2 @@
 # potential-guide
-Training repo
+Let's see the changes
